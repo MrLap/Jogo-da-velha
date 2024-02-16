@@ -1,5 +1,10 @@
 # Jogo da Velha
 
+![image](https://github.com/MrLap/Jogo-da-velha/assets/98500930/08e6f302-9737-4b85-aec8-4bc0b2a4cb48)
+
+
+# Para acessar clique aqui: https://mrlap.github.io/Jogo-da-velha/
+
 Este é um simples jogo da velha implementado em HTML, CSS e JavaScript. Permite que dois jogadores joguem o clássico jogo da velha em um navegador da web.
 
 ## Como Jogar
@@ -30,4 +35,4 @@ Contribuições são bem-vindas! Se você quiser melhorar este jogo da velha, si
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a GNU General Public License v3.0.
